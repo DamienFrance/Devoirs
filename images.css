@@ -1,0 +1,54 @@
+.titre {
+	color:black;
+	top:50px;
+	right: +150px;
+	
+}
+
+.soustitre {
+	color:black;
+	top:70px;
+	right: +70px;
+	font-size:50%;
+}
+#image:active
+{
+   transform: scale(3);
+   transition: 1s;
+}
+
+#image:hover{
+	   cursor: zoom-in;
+	   background-image:url(bat1.png);
+	   background-position:top;
+}
+.trait {
+	color:black;
+	top:70px;
+	right: +75px;
+	font-size:80%;
+}
+#image {
+  position: fixed;
+  top: 150px;
+}
+
+.un {
+	right: +75px;
+}
+
+.deux {
+  right: +250px;
+}
+
+.trois {
+	right: +425px;
+}
+
+.quatre {
+	right: +600px;
+}
+
+.cinq {
+	right: +775px;
+}
